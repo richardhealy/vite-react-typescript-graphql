@@ -28,3 +28,4 @@ dist-ssr
 # Custom
 .env
 coverage
+yarn.lock
